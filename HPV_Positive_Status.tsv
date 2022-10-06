@@ -1,0 +1,7 @@
+Study ID	Patient ID	Sample ID	Diagnosis Age	Cancer Type	Cancer Type Detailed	HPV Status	Invasion Depth (mm)	Mean Target Coverage Normal	Mean Target Coverage Tumor	Mutation Count	Oncotree Code	Race Category	Sample Collection Source	Number of Samples Per Patient	Sex	Somatic Status	TMB (nonsynonymous)	Tumor Size
+vsc_cuk_2018	VSCC1	VSCC1	60	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	Positive	Microinvasion	140.2559	119.6304	77	VSC	Korean	FFPE	1	Female	Matched	2.56666666667	3.5
+vsc_cuk_2018	VSCC2	VSCC2	74	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	Positive	7	180.7329	166.4826	93	VSC	Korean	Frozen	1	Female	Matched	3.03333333333	3
+vsc_cuk_2018	VSCC3	VSCC3	78	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	Positive	8	97.3511	150.9149	76	VSC	Korean	FFPE	1	Female	Matched	2.53333333333	3
+vsc_cuk_2018	VSCC4	VSCC4	61	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	Positive	Microinvasion	156.2992	142.5104	156	VSC	Korean	FFPE	1	Female	Matched	5.23333333333	0.5
+vsc_cuk_2018	VSCC5	VSCC5	66	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	Positive	6	170.2885	155.882	78	VSC	Korean	FFPE	1	Female	Matched	2.53333333333	2
+vsc_cuk_2018	VSCC6	VSCC6	47	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	Positive	1	152.2072	157.5839	27	VSC	Korean	FFPE	1	Female	Matched	0.866666666667	1.5

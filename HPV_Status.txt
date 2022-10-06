@@ -1,0 +1,16 @@
+Study ID	Patient ID	HPV Status
+vsc_cuk_2018	VSCC1	Positive
+vsc_cuk_2018	VSCC2	Positive
+vsc_cuk_2018	VSCC3	Positive
+vsc_cuk_2018	VSCC4	Positive
+vsc_cuk_2018	VSCC5	Positive
+vsc_cuk_2018	VSCC6	Positive
+vsc_cuk_2018	VSCC7	Negative
+vsc_cuk_2018	VSCC8	Negative
+vsc_cuk_2018	VSCC9	Negative
+vsc_cuk_2018	VSCC10	Negative
+vsc_cuk_2018	VSCC11	Negative
+vsc_cuk_2018	VSCC12	Negative
+vsc_cuk_2018	VSCC13	Negative
+vsc_cuk_2018	VSCC14	Negative
+vsc_cuk_2018	VSCC15	Negative

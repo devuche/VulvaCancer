@@ -1,0 +1,16 @@
+Study ID	Patient ID	Diagnosis Age
+vsc_cuk_2018	VSCC1	60
+vsc_cuk_2018	VSCC2	74
+vsc_cuk_2018	VSCC3	78
+vsc_cuk_2018	VSCC4	61
+vsc_cuk_2018	VSCC5	66
+vsc_cuk_2018	VSCC6	47
+vsc_cuk_2018	VSCC7	70
+vsc_cuk_2018	VSCC8	70
+vsc_cuk_2018	VSCC9	45
+vsc_cuk_2018	VSCC10	61
+vsc_cuk_2018	VSCC11	62
+vsc_cuk_2018	VSCC12	69
+vsc_cuk_2018	VSCC13	79
+vsc_cuk_2018	VSCC14	64
+vsc_cuk_2018	VSCC15	83
